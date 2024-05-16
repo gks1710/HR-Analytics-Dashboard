@@ -1,4 +1,4 @@
-🚀 *HR Analytics Dashboard with PowerBI*
+# 🚀 *HR Analytics Dashboard with PowerBI*
 
 ℹ️ This project showcases a dynamic dashboard built with PowerBI, offering insights into total employee count and attrition rates. By integrating data from HR systems, I've developed visualizations to track employee turnover, analyze attrition trends, and identify factors influencing retention.
 
